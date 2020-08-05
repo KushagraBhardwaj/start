@@ -12,6 +12,9 @@ img
 {
     border: 10px inset lawngreen;
     border-radius: 100%;
+    padding: 10px;
+    margin: 30px;
+    display: block;
 }
 .boy2
 {border: 15px dotted green;
