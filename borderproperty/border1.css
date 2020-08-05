@@ -9,14 +9,19 @@ border-radius: 45%;
 
 }
 img
-{
+{   
+    width: 200px ;
     border: 10px inset lawngreen;
     border-radius: 100%;
     padding: 10px;
     margin: 30px;
-    display: block;
+    display: inline;
+    box-sizing: border-box;
 }
 .boy2
 {border: 15px dotted green;
     border-radius: 0%;
+}
+[target=_blank]{
+    color: lightseagreen;
 }
