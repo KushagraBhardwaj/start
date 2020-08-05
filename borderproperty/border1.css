@@ -1,0 +1,19 @@
+div{
+    width: 200px;
+height: 200px;
+/* background-color:red; */
+border:1px solid red;
+background-image: url(../boy.JPG);
+background-size: cover;
+border-radius: 45%;
+
+}
+img
+{
+    border: 10px inset lawngreen;
+    border-radius: 100%;
+}
+.boy2
+{border: 15px dotted green;
+    border-radius: 0%;
+}
