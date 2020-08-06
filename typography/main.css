@@ -1,0 +1,9 @@
+p::first-letter{
+    font-family: fantasy;
+    font-size:60px;
+    line-height:.5;
+}
+p::first-line{
+    font-family: sans-serif;
+    color: hotpink;
+}

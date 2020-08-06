@@ -1,0 +1,12 @@
+/* li:first-child{ */
+    /* background-color: salmon; */
+/* } */
+/* li:last-child{ */
+    /* background-color: seagreen; */
+/* } */
+/* ul:first-child{ */
+    /* background-color: skyblue; */
+/* } */
+li:nth-child(odd){
+    color: greenyellow;
+}
