@@ -1,0 +1,21 @@
+body{
+    max-width: 700px;
+    /* width: 100%; */
+    margin: 0 auto;
+    border: 5px solid green;
+}
+nav{
+    border: 2px solid red;
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+main{
+    border: 2px solid red;
+    display: inline-block;
+    width: 75%;
+    /* max-width: 1000px; */
+    /* margin: auto 0; */
+    box-sizing: border-box;
+}

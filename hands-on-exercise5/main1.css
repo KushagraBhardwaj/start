@@ -1,0 +1,15 @@
+ul>li{
+    display: inline-block;
+    border: 2px solid blue;
+    border-radius: 50%;
+    padding: 2rem;
+    font-size: 2rem;
+    list-style: none;
+}
+a{
+    color: hotpink;
+
+}
+li:hover{
+   background-color: lawngreen;
+}

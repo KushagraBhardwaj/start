@@ -1,0 +1,22 @@
+html{
+    font-family:'oswald', sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    /* letter-spacing: 1rem; */
+}
+h1{
+    text-shadow: 1px 1px 2px gold;
+}
+a{
+    text-decoration: none;
+}
+h2{
+ text-decoration: line-through;
+}
+p{
+    text-indent: 1rem;
+    max-width: 500px;
+}
+a:hover{
+    text-decoration: underline;
+}

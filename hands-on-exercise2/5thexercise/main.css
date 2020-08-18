@@ -1,0 +1,10 @@
+/* p::first-letter{ */
+    /* font-size: 100px; */
+    /* font-family: serif; */
+/* } */
+/* p::first-line{ */
+    /* color: darkred; */
+/* } */
+div p{
+    color: darkred;
+}
